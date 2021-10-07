@@ -1,0 +1,13 @@
+POST /users/register HTTP/1.1
+Host: localhost:8080
+Content-Type: application/json
+Content-Length: 193
+
+{
+    "email": "Gregoria_Schinner19@hotmail.com",
+    "username": "Oleta_Kreiger54",
+    "password": "q82w3fNCIlWEs8L",
+    "firstname": "Wyatt",
+    "lastname": "Jakubowski",
+    "phone": "491-748-2418"
+}

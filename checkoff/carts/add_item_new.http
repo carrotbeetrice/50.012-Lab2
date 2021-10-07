@@ -1,0 +1,3 @@
+PUT /carts?userId=615de0629badb53f11420fbe&productId=615a8c7cb9e2a16322324407&quantity=2 HTTP/1.1
+Host: localhost:8080
+Api-Key: 773f4d6d-ad7e-4fcf-9d90-96c6625528a5
